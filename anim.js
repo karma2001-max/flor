@@ -5,8 +5,8 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
 
-  { text: "Estas flores amarillas son un reflejo de la alegría que traes a mi vida. ", time: 8 },
-  { text: "Gracias por iluminar mi dia con tu sonriza niña hermosa ", time: 10 },
+  { text: "Estas flores amarillas son para ti Lady. ", time: 8 },
+  { text: "espero te guste ", time: 10 },
   { text: "At the time", time: 15 },
   { text: "The whisper of birds", time: 18 },
   { text: "Lonely before the sun cried", time: 27 },
